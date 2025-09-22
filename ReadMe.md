@@ -11,11 +11,11 @@ Trabalharemos com uma pequena base de dados (197 linhas incluindo os títulos) q
 - Usei ***VS Code*** para criar e editar o arquivo ReadMe.md e estabelecer Source Control.
 
 # A Análise
-Esse projeto de dividirá em duas partes:
+Esse projeto se dividirá em duas partes:
 
-Primeiramente, a conversão do arquivo em para o formato XLSX. Ao lado da tabela principal devem ser colocadas pequenas tabelas que visam explorar funções básicas de uso geral, como SOMA, MÉDIA, PROCV, etc. A tabela original deve ser formatada e também deve incluir um gráfico para demonstrar visualização.
+Primeiramente, a conversão do arquivo CSV para o formato XLSX. Ao lado da tabela principal devem ser colocadas pequenas tabelas que visam explorar funções básicas de uso geral, como SOMA, MÉDIA, PROCV, etc. A tabela original deve ser formatada e também deve incluir um gráfico para demonstrar visualização.
 
-A primeira análise conclui que a economia do mundo avançou nos últimos cinco anos (pela soma dos PIBs). O menor PIB em 2025 é o de Tuvalu e o maior é o dos Estados Unidos. Ambos os países tiveram um aumento no PIB desde 2020. Observa-se também que na Europa (região escolhida arbitrariamente) a maioria dos países corresponde à menor parte do PIB total da região.
+A primeira análise conclui que a economia do mundo avançou nos últimos cinco anos (pela soma dos PIBs). O menor PIB em 2025 é o de Tuvalu e o maior é o dos Estados Unidos. Ambos os países tiveram um aumento no PIB desde 2020. Observa-se também que na Europa (região escolhida arbitrariamente) a minoria dos países corresponde à maior parte do PIB total da região.
 
 ![1_tabela_base](1_tabela_base.png)
 
@@ -35,6 +35,6 @@ Na segunda parte, aprendi a usar tabela dinâmica para organizar, analisar e res
 
 # Conclusões
 
-Há habilidades que não foram possíveis de se desenvolver e/ou aprimorar por conta da versão do Excel em uso (2013) e algumas funções só estarem presentes em versões posteriores, como Matrizes Dinâmicas, cálculos de MODA, cálculos com matrizes, etc.
+Há habilidades que não foram possíveis de se desenvolver e/ou aprimorar por conta da versão do Excel em uso (2013) e algumas ferramentas só estarem presentes em versões posteriores, como Matrizes Dinâmicas, cálculos de MODA, cálculos com matrizes, função PROCX, etc.
 
 Porém, em grande parte, foi possível consolidar as habilidades básicas de uso cotidiano geral (como funções e formatações) e desenvolver habilidades fundamentais para a carreira de análise de dados (como Tabela Dinâmica, visualizações com gráficos e uso de filtros).
