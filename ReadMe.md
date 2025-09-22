@@ -27,7 +27,7 @@ A segunda análise nos mostra que a maior parte do PIB do mundo está nos contin
 
 # O Que Aprendi
 
-Na primeira parte, aprendi a transformar arquivos do formato CSV para arquivos XLSX separando por colunas com a feramenta "Obter Dados de Texto" na seção "Dados" e explorei. Aprendi as funções SOMA, SOMASE, SOMASES, MÉDIA, MÉDIASE, MÉDIASES, CONT.NÚM, CONT.VALORES, CONT.SE, CONT.SES, MED, PROCV, ÍNDICE-CORRESP, SE, MÍNIMO e MÁXIMO. Aprendi também testes lógicos (verdadeiro ou falso), formatação condicional de tabelas, inserção e formatação de gráficos, filtros, localizar e substituir, comentários, etc.
+Na primeira parte, aprendi a transformar arquivos do formato CSV para arquivos XLSX separando por colunas com a feramenta "Obter Dados de Texto" na seção "Dados" e explorei diversar opções de personalização (fontes, tamanhos de letra, bordas, etc.) de tabelas. Aprendi as funções SOMA, SOMASE, SOMASES, MÉDIA, MÉDIASE, MÉDIASES, CONT.NÚM, CONT.VALORES, CONT.SE, CONT.SES, MED, PROCV, ÍNDICE-CORRESP, SE, MÍNIMO e MÁXIMO. Aprendi também testes lógicos (verdadeiro ou falso), formatação condicional de tabelas, inserção e formatação de gráficos, filtros, localizar e substituir, comentários, etc.
 
 (obs: é muito importante notar que várias dessas funções já era do meu conhecimento prévio de Excel, pois fui introduzido à ferramenta em um curso de informática em 2016 e usei ela várias vezes durante o curso Técnico em Administração do SENAC (2023-2024).)
 
